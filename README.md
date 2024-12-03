@@ -1,6 +1,6 @@
 ## Olá, me chamo Felipe Fonseca
 
-- 🔭 Atualmente estou cursando o 6 semestre do curso de Sistemas de Informação  na Universidade Santa Cecília
+- 🔭 Atualmente estou cursando o 7 semestre do curso de Sistemas de Informação  na Universidade Santa Cecília
 - 📫 Email de contato: fmfonseca.contato@gmail.com
 ##
 
