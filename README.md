@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Felipe Fonseca  
+# Hey👋 What's up?  
 
 - I'm Felipe Fonseca, a software engineer. Enthusiastic about programming, working with Full Stack and database development.  
 
