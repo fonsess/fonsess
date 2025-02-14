@@ -7,6 +7,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fonses-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=cs,nodejs,js,html,css,git,mysql">
+  [![My Skills](https://skillicons.dev/icons?i=cs,nodejs,js,html,css,git,mysql)](https://skillicons.dev)
 </div>
 
 ##
